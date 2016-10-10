@@ -1,5 +1,8 @@
 body {
-  background-image: 	url("http://media.idownloadblog.com/wp-content/uploads/2015/04/Darth-Vader-serious-iPad.jpg");
+  background: 	url("../../images/vader.jpg") no-repeat center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
 }
 
 .Four {
