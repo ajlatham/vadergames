@@ -1,0 +1,7 @@
+.tickTack{
+  display: inline-block;
+  background-color: black;
+}
+.tickTackWrapper {
+  text-align: center;
+}

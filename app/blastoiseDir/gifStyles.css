@@ -1,0 +1,14 @@
+.blastoiseGif {
+  height: 65vh;
+  width: 45vw;
+  position: absolute; /* or absolute */
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%);
+    cursor: pointer;
+
+}
+.blastoiseGif img {
+  width: 100%;
+  height: 85%;
+}
